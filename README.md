@@ -1,2 +1,3 @@
-# REIT6811 tut 6
- demo for tut 6
+# AI_Research
+
+put some stuff - all data for the project
